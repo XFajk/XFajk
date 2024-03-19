@@ -20,7 +20,7 @@
     - Codeigniter 🏫
     - Larvel
     - React
-    - How DatBases work 🏫
+    - How data-bases work 🏫
     - MongoDB
     - SQL
   - Projects
