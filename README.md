@@ -22,7 +22,7 @@
     - React
     - How data-bases work 🏫
     - MongoDB
-    - SQL
+    - SQL 🏫
   - Projects
     - Make a lot of websites and construct my tech stack 🏫
     - My portfolio 🏫
