@@ -16,11 +16,11 @@
     - CSS ✅
     - JavaScript ✅
     - TypeScript 🏫
-    - Vue 🏫
     - Codeigniter 🏫
+    - HTMX 🏫
     - Larvel
     - React
-    - How data-bases work 🏫
+    - How data-bases work ✅
     - MongoDB
     - SQL 🏫
   - Projects
