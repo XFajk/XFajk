@@ -15,14 +15,9 @@
     - HTML ✅
     - CSS ✅
     - JavaScript ✅
-    - TypeScript 🏫
-    - Codeigniter 🏫
-    - HTMX 🏫
-    - Larvel
-    - React
+    - React 🏫
     - How data-bases work ✅
-    - MongoDB
-    - SQL 🏫
+    - MySQL 🏫
   - Projects
     - Make a lot of websites and construct my tech stack 🏫
     - My portfolio 🏫
@@ -31,17 +26,19 @@
 - Reverse-Enginering, Game-Hacking and Cyber-Security 2.
   - Technologies
     - Windows API
-    - Ghidra decopiler(Assembly) 🏫
+    - Ghidra/Cutter decopiler(Assembly) 🏫
     - Driver building
     - Generaly how Networking wroks
-    - TCP protocol
+    - TCP/UDP protocol
     - HTTP protocol
     - Get better at C and datastructures 🏫
     - Rust
   - Projects
+    - make an custom alocator
+    - make a smart pointers in C
     - Try to make cheat for a singleplayer game
     - Do 20 crackme chalanges of varius dificulty
-    - make a TCP server in C
+    - make a TCP/UDP server in C
     - make a HTTP server in C
 - Game Development 3.
   - Techonlogies
